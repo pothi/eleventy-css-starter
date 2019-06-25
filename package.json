@@ -1,6 +1,6 @@
 {
   "name": "eleventy-css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eleventy Simple CSS Workflow",
   "scripts": {
     "dev": "npx eleventy --serve",
@@ -13,6 +13,5 @@
     "debug": "^4.1.1",
     "postcss": "^7.0.17",
     "postcss-import": "^12.0.1",
-    "tailwindcss": "^1.0.4"
   }
 }
