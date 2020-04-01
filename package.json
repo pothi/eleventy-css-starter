@@ -1,6 +1,6 @@
 {
   "name": "eleventy-css",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Eleventy Simple CSS Workflow",
   "scripts": {
     "dev": "npx eleventy --serve",
@@ -9,9 +9,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^0.8.3",
+    "@11ty/eleventy": "^0.10.0",
     "debug": "^4.1.1",
-    "postcss": "^7.0.17",
+    "postcss": "^7.0.27",
     "postcss-import": "^12.0.1"
   }
 }
